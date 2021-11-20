@@ -1,0 +1,364 @@
+body{
+    background-color: #e6d5b8;
+    height: 3000px;
+}
+
+p.menu{
+    position: relative;
+    left: 1130px;
+    bottom: 30px; 
+    word-spacing: 11px;
+}
+div.toppg{
+    background-color:white ;
+    position: relative;
+    bottom: 89px;
+    margin: 5% 0; 
+    color: #e45826;
+    font-weight: bold;
+}
+img.honpic{
+    position: relative;
+    top: 15px;
+}
+div.intro{
+    position: relative;
+    bottom: 170px;
+    background-color: #4a3933;
+    color: #f0a500;
+    margin: auto auto auto auto;
+    padding: 10px 10px 10px 10px;
+    width: 2000px;
+    height: 400px;
+}
+
+img.sweet{
+    position: relative;
+    left: 980px;
+    bottom: 80px;
+    
+}
+a.view{
+    position: relative;
+    right: 480px;
+    bottom: 260px;
+    background-color: #e45826;
+    width: 20px;
+    padding: 20px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+p.mission{
+    color: white;
+    font-size: 12px;
+}
+
+div.offers{
+    position:relative ;
+    bottom: 213px;
+    right: 50px;
+background-color: white;
+width: 2000px;
+padding: 54px;
+margin: 45px;
+height: 690px;
+}
+
+p{
+    font-family: 'Lato', sans-serif;
+    font-size: 12px;
+}
+
+h1{
+    font-family: 'Fira Sans', sans-serif;
+}
+
+div.price1{
+    position: relative;
+    bottom: 880px;
+    left: 410px;
+    background-color: #f8f5f1;
+    width: 200px;
+
+    padding: 54px;
+    margin: 25px;
+    height: 290px;
+}
+
+p.money{
+    font-size: 20px;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: bold;
+}
+p.gram{
+    font-size: 15px;
+    font-family: 'Fira Sans', sans-serif;
+}
+div.price2{
+        position: relative;
+        bottom: 1300px;
+        left: 810px;
+        background-color: #f8f5f1;
+        width: 200px;
+        border: 16px solid #e45826;
+        padding: 54px;
+        margin: 25px;
+        height: 290px;
+}
+p.money2 {
+    font-family: 'Fira Sans', sans-serif;
+    font-size:20px ;
+    font-weight: bolder;
+}
+
+p.grade{
+    font-size: 14px ;
+}
+p.grade2{
+    font-size: 14px;
+}
+
+div.price3{
+    position: relative;
+    bottom: 1730px;
+    left: 1190px;
+    background-color: #f8f5f1;
+    width: 200px;
+    padding: 54px;
+    margin: 25px;
+    height: 290px;
+}
+
+h1.bene{
+    position: relative;
+    bottom: 1510px;
+}
+
+div.rich{
+    position: relative;
+    bottom: 1510px;
+    left: 40px;
+}
+
+div.chol{
+    position: relative;
+    bottom: 1640px;
+    left: 500px;
+}
+
+div.nat{
+    position: relative;
+    bottom: 1760px;
+    left: 920px;
+}
+
+div.imp{
+    position: relative;
+    bottom: 1710px;
+    left: 40px;
+}
+
+div.lower{
+    position: relative;
+    bottom: 1860px;
+    left: 470px;
+}
+div.anit{
+    position: relative;
+    bottom: 2000px;
+    left: 940px;
+}
+
+h1.r1{
+    font-size: 25px;
+}
+
+h1.chol1{
+    font-size: 25px;
+}
+
+h1.nat1{
+    font-size: 25px;
+}
+
+h1.imp1{
+    font-size: 25px;
+}
+
+h1.lower1{
+    font-size: 25px;
+}
+
+h1.anit1{
+    font-size: 25px;
+}
+
+div.testimon{
+    position: relative;
+    bottom: 1730px;
+    right: 32px;
+    background-color: #f8f5f1;
+    width: 1600px;
+    padding: 54px;
+    margin: 25px;
+    height: 500px;
+}
+
+h1.test{
+    position: relative;
+    bottom: 60px;
+}
+
+p.scott{
+    position: relative;
+    bottom: 40px;
+    left: 150px;
+    background-color:hsl(38, 64%, 92%);
+    width: 200px;
+    padding: 54px;
+    margin: 25px;
+    height: 260px;
+    color: #444444;
+}
+p.share{
+    position: relative;
+    bottom: 49px;
+}
+
+p.name1{
+    position: relative;
+    bottom: 100px;
+    left: 270px;
+    color: black;
+    font-size: 18px; 
+    font-weight: bold;
+}
+
+p.ram{
+    position: relative;
+    bottom: 480px;
+    left: 550px;
+    background-color:hsl(38, 64%, 92%);;
+    width: 200px;
+    padding: 54px;
+    margin: 25px;
+    height: 260px;
+    color: #444444;
+}
+p.name2{
+    position: relative;
+    bottom: 540px;
+    left: 670px;
+    color: black;
+    font-size: 18px; 
+    font-weight: bold;
+}
+
+p.natalie{
+    position: relative;
+    bottom: 910px;
+    left: 950px;
+    background-color:hsl(38, 64%, 92%);;
+    width: 200px;
+    padding: 54px;
+    margin: 25px;
+    height: 260px;
+    color: #444444;
+}
+p.name3{
+    position: relative;
+    bottom: 980px;
+    left: 1060px;
+    color: black;
+    font-size: 18px; 
+    font-weight: bold;
+}
+
+div.banner{
+    position: relative;
+    margin:40px ;
+    padding: 10px ;
+    background-color: #4a3933;
+    width: 1500px ;
+    height: 90px;
+    right: 55px;
+    bottom: 1770px;
+}
+h1.get{
+color:#f8f5f1 ;
+}
+
+a.purchase{
+    position: relative;
+    left:1250px ;
+    bottom: 50px;
+    font-size: 20px;
+    background-color: #e45826;
+    width: 20px;
+    padding: 20px;
+    font-weight: bold;
+}
+
+div.bottom{
+    position: relative;
+    bottom: 1810px;
+    right: 20px;
+    background-color:#f8f5f1;
+    height:600px ;
+    width: 1500px;
+    margin:20px ;
+    padding: 20px;
+}
+p.pro{
+    color: #e45826;
+    font-weight:bold ;
+}
+
+p.ab{
+    color: #e45826;
+    font-weight:bold ;
+}
+
+p.ho{
+    color: #e45826;
+    font-weight:bold ;
+}
+
+p.con{
+    color: #e45826;
+    font-weight:bold ;
+}
+div.social{
+    position: relative;
+    bottom: 2430px;
+    left: 300px;
+}
+
+p.fol{
+    color: #e45826;
+    font-weight: bold;
+}
+p.lisence{
+    position: relative;
+    top: 200px;
+    color: #e45826;
+    font-weight: bold;
+}
+
+h1.terms{
+    position: relative;
+    left: 300px;
+    bottom: 130px;
+}
+
+p.poli{
+    position: relative;
+    left: 300px;
+    color: #e45826;
+    font-weight: bold;
+    bottom: 130px ;
+}
